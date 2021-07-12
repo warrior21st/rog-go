@@ -8,9 +8,9 @@ package parser
 
 import (
 	"bytes"
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/scanner"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/warrior21st/rog-go/exp/go/ast"
+	"github.com/warrior21st/rog-go/exp/go/scanner"
+	"github.com/warrior21st/rog-go/exp/go/token"
 	"errors"
 	"io"
 	"io/ioutil"
